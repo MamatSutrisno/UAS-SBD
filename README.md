@@ -38,5 +38,5 @@ Membuat menu hapus contoh pada tabel dokter
 ![image](https://user-images.githubusercontent.com/101656195/179035900-8841ebe0-4a4e-4937-92e6-0ee951ede00c.png)
 
 
-Sudah melakukn demo pada tanggal : 14 juli 2022 jam 20.00
+Sudah melakukn demo pada tanggal : 14 juli 2022 jam 22.00
 
